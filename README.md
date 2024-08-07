@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PhamTrung012224
-- 👀 I’m interested in Verilog, Android App, PCB and badminton
-- 🌱 I’m currently learning about Java and Verilog HDL
-- 💞️ I’m looking to collaborate on vlsi project
+- 👀 I’m interested in Verilog (Vivado), Mobile Application (FLutter), VLSI, and badminton.
+- 🌱 I’m currently learning about Dart and VHDL.
+- 💞️ I’m looking to collaborate on VLSI and Android app projects.
 - 📫 How to reach me trung.pham01152224@hcmut.edu.vn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
