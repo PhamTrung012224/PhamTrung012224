@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PhamTrung012224
-- 👀 I’m interested in Verilog (Vivado), Mobile Application (FLutter), VLSI, and badminton.
+- 👀 I’m interested in Embedded System (Zephyr), Mobile Application (FLutter), and badminton.
 - 🌱 I’m currently learning about Dart and VHDL.
-- 💞️ I’m looking to collaborate on VLSI and Android app projects.
-- 📫 How to reach me trung.pham01152224@hcmut.edu.vn
+- 💞️ I’m looking to collaborate on Embedded C and Android app projects.
+- 📫 How to reach me trung.pham01152224@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
